@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>My Story</title>
+    <topicref href="index.dita"/>
+    <topicref href="chapter1.dita"/>
+    <topicref href="chapter2.dita"/>
+    <topicref href="chapter3.dita"/>
+    <topicref href="chapter4.dita"/>
+    <topicref href="chapter5.dita"/>
+    <topicref href="chapter6.dita"/>
+    <topicref href="chapter7.dita"/>
+    <topicref href="chapter8.dita"/>
+    <topicref href="reuse.dita" processing-role="resource-only"/>
+</map>
