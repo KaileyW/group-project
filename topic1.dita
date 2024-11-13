@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://www.oasis-open.org/committees/dita/dita-2.0.dtd">
+<topic id="topic1">
+    <title>Topic 1: Introduction</title>
+    <body>
+        <p>This is the content for Topic 1. Replace this with your own text.</p>
+    </body>
+</topic>
