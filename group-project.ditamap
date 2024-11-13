@@ -2,5 +2,5 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>group-project</title>
-    <topicref href="index.dita"/>
+    <topicref href="topic1.dita"/>
 </map>
