@@ -2,5 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>How to use Oxygen Content Fusion to publish DITA to Netlify for websites and PDF</title>
+    <topicref href="index.dita"/>
     <topicref href="topic1.dita"/>
 </map>
