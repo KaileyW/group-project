@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://www.oasis-open.org/committees/dita/dita-2.0.dtd">
 <topic id="topic1">
-    <title>Topic 1: Introduction</title>
+    <title>Create a GitHub Repository</title>
     <body>
         <p>I have changed something. Does it change?</p>
     </body>
