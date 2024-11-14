@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_b54_3qq_jdc">
+    <title>Create a Publication in Oxygen Content Fusion</title>
+    <shortdesc>This task will show you how to create a publication in Oxygen Content
+        Fusion.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_b3y_m5q_jdc">
+            <p>You must have created a project in Oxygen Content Fusion.</p>
+        </prereq>
+        <context>
+            <p>Learn how to create a publication that will be used to deliver the content of your
+                project in Oxygen Content Fusion.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the "publications" tab on the left either in your workspace or your
+                    project homepage</cmd>
+            </step>
+            <step>
+                <cmd>Click "new publication"</cmd>
+            </step>
+            <step>
+                <cmd>Enter a name</cmd>
+            </step>
+            <step>
+                <cmd>Select your ditamap from the file list</cmd>
+            </step>
+            <step>
+                <note id="note_kpc_bvq_jdc" type="notice">Applicable only if you are filtering
+                    content</note>
+                <cmd>Select ditaval</cmd>
+            </step>
+            <step>
+                <cmd>Click "create"</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

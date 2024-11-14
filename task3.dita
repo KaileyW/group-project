@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_b54_3qq_jdc">
+    <title>Create a Project in Oxygen Content Fusion and Connect to GitHub</title>
+    <shortdesc>This task will show you how to create a project in Oxygen and how to connect it to
+        your GitHub repository.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_xc4_vqq_jdc">
+            <p>You must have created a GitHub repository.</p>
+        </prereq>
+        <context>
+            <p>Learn to connect your new GitHub repository to a new project in Oxygen Content Fusion
+                that can be edited in Oxygen and updated in GitHub automatically.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Log into Oxygen Content Fusion and click "New Project"</cmd>
+            </step>
+            <step>
+                <cmd>Enter a name</cmd>
+            </step>
+            <step>
+                <note id="note_efn_rsq_jdc" type="tip">Optional but recommended</note>
+                <cmd>Enter a description</cmd>
+            </step>
+            <step>
+                <cmd>Enter your GitHub repository URL</cmd>
+            </step>
+            <step>
+                <cmd>Enter "Main" for Branch</cmd>
+            </step>
+            <step>
+                <cmd>Under "Username and Access Token"</cmd>
+                <substeps id="substeps_dnd_3sq_jdc">
+                    <substep>
+                        <cmd>Enter GitHub username</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter GitHub Access Token</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click "Create project"</cmd>
+            </step>
+            <step>
+                <cmd>Begin creating content</cmd>
+                <substeps id="substeps_rlf_ysq_jdc">
+                    <substep>
+                        <cmd>Create a ditamap </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Create files of desired type and fill with content</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>With your ditamap open, drag files onto map to display them on your
+                            deliverable</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Commit any changes</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
