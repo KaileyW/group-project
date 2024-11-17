@@ -6,7 +6,7 @@
         your GitHub repository.</shortdesc>
     <taskbody>
         <prereq id="prereq_xc4_vqq_jdc">
-            <p>You must have created a GitHub repository.</p>
+            <p>You must have created a GitHub repository and access token.</p>
         </prereq>
         <context>
             <p>Learn to connect your new GitHub repository to a new project in Oxygen Content Fusion
