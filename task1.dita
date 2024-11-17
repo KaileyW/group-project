@@ -25,6 +25,48 @@
                     </substep>
                 </substeps>
             </step>
+            <step>
+                <cmd>Configure Your New Repository</cmd>
+                <substeps id="substeps_mvy_skm_kdc">
+                    <substep>
+                        <cmd>Enter a unique name for your repository</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add a short description of what this repository is for (optional)</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Choose whether you want your repository to be public (visible to
+                            everyone) or private (visible only to you and collaborators)</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Initialize the Repository: If you want GitHub to create the main branch
+                            for you, check “Add a README file”. You can also:</cmd>
+                        <info>
+                            <ul id="ul_str_dlm_kdc">
+                                <li>Add a .gitignore file to specify files Git should ignore</li>
+                                <li>Select a license if applicable</li>
+                            </ul>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Create Repository</cmd>
+                <substeps id="substeps_gng_jlm_kdc">
+                    <substep>
+                        <cmd>Once you've configured everything, click the green button “Create
+                            repository” at the bottom of the page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After creating the repository, you’ll be directed to the repository
+                            page</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>You now have a GitHub repository created from scratch that you can
+                            start adding files to and managing with GitHub commands!</cmd>
+                    </substep>
+                </substeps>
+            </step>
         </steps>
     </taskbody>
 </task>
