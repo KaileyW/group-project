@@ -2,10 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_b54_3qq_jdc">
     <title>Create a Personal Access Token in GitHub</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Next, let's create a personal access token for our repository in GitHub.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Here you will learn how to create a personal access token in GitHub which is another
+                essential part of the process.</p>
         </context>
         <steps>
             <step>
