@@ -10,7 +10,32 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Click on your profile picture in the top right corner</cmd>
+            </step>
+            <step>
+                <cmd>Click “Settings” in the drop down menu</cmd>
+            </step>
+            <step>
+                <cmd>Click “Developer Settings” in the left menu</cmd>
+                <substeps id="substeps_y3h_d4m_kdc">
+                    <substep>
+                        <cmd>Click “Personal access tokens” in the left menu, then select either
+                            “Fine-grained tokens” or “Tokens (classic)”</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click “Generate new token”</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add a note for what this token is for</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select an expiration date (whatever you feel is appropriate is
+                            fine)</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click “Generate token”</cmd>
+                    </substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>
