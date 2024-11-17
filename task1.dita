@@ -16,14 +16,10 @@
                     <substep>
                         <cmd>Go to your GitHub Repositories</cmd>
                     </substep>
-                </substeps>
-                <substeps id="substeps_kfl_bkm_kdc">
                     <substep>
                         <cmd>On the main page, click on the + icon in the upper right-hand
                             corner</cmd>
                     </substep>
-                </substeps>
-                <substeps id="substeps_yrz_ckm_kdc">
                     <substep>
                         <cmd>Select “New repository” from the drop-down menu</cmd>
                     </substep>
