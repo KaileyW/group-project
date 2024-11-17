@@ -3,6 +3,10 @@
 <topic id="topic_tch_pkp_jdc">
     <title>Introduction</title>
     <body>
-        <p>This is the intro.</p>
+        <p>Welcome!</p>
+        <p>Hop onto your computer and buckle up as we walk you through how to publish DITA to
+            Netlify to create a website and PDF using Oxygen Content Fusion's deliverables and
+            publications settings.</p>
+        <p>If you follow us every step of the way, you'll be in good hands.</p>
     </body>
 </topic>
