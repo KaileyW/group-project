@@ -14,17 +14,26 @@
         </context>
         <steps>
             <step>
-                <cmd>Click the "publications" tab on the left either in your workspace or your
-                    project homepage</cmd>
+                <cmd>Click the "publications" tab on the left of your project homepage</cmd>
                 <info>
-                    <note id="note_zks_q24_kdc" type="tip">The icons appear differently depending on
-                        where you are, but each tab tells you what is it when you hover over it with
-                        your mouse</note>
-                    <fig id="fig_ixc_q24_kdc"/>
+                    <note id="note_zks_q24_kdc" type="tip">Each tab tells you what is it when you
+                        hover over it with your mouse</note>
+                    <fig id="fig_ixc_q24_kdc">
+                        <image href="images/publications%20tab.png" id="image_vyv_qf4_kdc"
+                            alt="picture of a project's homepage with an arrow pointing to the &quot;publications&quot; tab"
+                        />
+                    </fig>
                 </info>
             </step>
             <step>
                 <cmd>Click "new publication"</cmd>
+                <info>
+                    <fig id="fig_gtb_sf4_kdc">
+                        <image href="images/newpublication.png" id="image_pgk_sf4_kdc"
+                            alt="picture of the publication management page with an arrow pointing to &quot;new project&quot;"
+                        />
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter a name</cmd>
@@ -39,6 +48,13 @@
             </step>
             <step>
                 <cmd>Click "create"</cmd>
+                <info>
+                    <fig id="fig_p5g_tf4_kdc">
+                        <image href="images/createinfo.png" id="image_w2s_5f4_kdc"
+                            alt="picture of the pop-up that appears when creating a new publication with an arrow pointing to the &quot;create&quot; button"
+                        />
+                    </fig>
+                </info>
             </step>
         </steps>
     </taskbody>
