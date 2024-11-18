@@ -16,6 +16,12 @@
             <step>
                 <cmd>Click the "publications" tab on the left either in your workspace or your
                     project homepage</cmd>
+                <info>
+                    <note id="note_zks_q24_kdc" type="tip">The icons appear differently depending on
+                        where you are, but each tab tells you what is it when you hover over it with
+                        your mouse</note>
+                    <fig id="fig_ixc_q24_kdc"/>
+                </info>
             </step>
             <step>
                 <cmd>Click "new publication"</cmd>
