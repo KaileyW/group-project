@@ -73,24 +73,6 @@
                     </fig>
                 </info>
             </step>
-            <step>
-                <cmd>Begin creating content</cmd>
-                <substeps id="substeps_rlf_ysq_jdc">
-                    <substep>
-                        <cmd>Create a ditamap </cmd>
-                    </substep>
-                    <substep>
-                        <cmd>Create files of desired type and fill with content</cmd>
-                    </substep>
-                    <substep>
-                        <cmd>With your ditamap open, drag files onto map to display them on your
-                            deliverable</cmd>
-                    </substep>
-                </substeps>
-            </step>
-            <step>
-                <cmd>Commit any changes</cmd>
-            </step>
         </steps>
     </taskbody>
 </task>
