@@ -19,7 +19,7 @@
                     <note id="note_zks_q24_kdc" type="tip">Each tab tells you what is it when you
                         hover over it with your mouse</note>
                     <fig id="fig_ixc_q24_kdc">
-                        <image href="images/publications%20tab.png" id="image_vyv_qf4_kdc"
+                        <image href="images/publicationstab.png" id="image_lpj_lh4_kdc"
                             alt="picture of a project's homepage with an arrow pointing to the &quot;publications&quot; tab"
                         />
                     </fig>
@@ -42,9 +42,11 @@
                 <cmd>Select your ditamap from the file list</cmd>
             </step>
             <step>
-                <note id="note_kpc_bvq_jdc" type="notice">Applicable only if you are filtering
-                    content</note>
                 <cmd>Select ditaval</cmd>
+                <info>
+                    <note id="note_eml_nh4_kdc" type="notice">Applicable only if you are filtering
+                        content</note>
+                </info>
             </step>
             <step>
                 <cmd>Click "create"</cmd>
