@@ -14,7 +14,27 @@
         </context>
         <steps>
             <step>
-                <cmd>Log into Oxygen Content Fusion and click "New Project"</cmd>
+                <cmd>Log into Oxygen Content Fusion</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Projects" tab</cmd>
+                <info>
+                    <fig id="fig_jx4_cc4_kdc">
+                        <image href="images/projecttab.png" id="image_sh5_jc4_kdc"
+                            alt="picture of screen that appears when you long into Oxygen Content Fusion with an arrow pointing to the tab labeled &quot;projects&quot;"
+                        />
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click "New Project"</cmd>
+                <info>
+                    <fig id="fig_anp_lc4_kdc">
+                        <image href="images/newproject.png" id="image_nz1_mc4_kdc"
+                            alt="picture of the projects tab with an arrow pointing to &quot;new project&quot;"
+                        />
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Enter a name</cmd>
@@ -30,6 +50,9 @@
                 <cmd>Enter "Main" for Branch</cmd>
             </step>
             <step>
+                <cmd>Leave Visibility as "Public"</cmd>
+            </step>
+            <step>
                 <cmd>Under "Username and Access Token"</cmd>
                 <substeps id="substeps_dnd_3sq_jdc">
                     <substep>
@@ -42,6 +65,13 @@
             </step>
             <step>
                 <cmd>Click "Create project"</cmd>
+                <info>
+                    <fig id="fig_kbm_qc4_kdc">
+                        <image href="images/createproject.png" id="image_ur5_qc4_kdc"
+                            alt="picture of pop-up that appears when creating a new project and an arrow pointing to &quot;create project&quot;"
+                        />
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Begin creating content</cmd>
