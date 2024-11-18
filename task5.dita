@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rx5_2yr_kdc">
+    <title>Connect to Netlify</title>
+    <shortdesc>This task will show you how to connect an Oxygen Content Fusion project to
+        Netlify.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_opt_yyr_kdc">You must have created a publication in Oxygen.</prereq>
+        <context>
+            <p>Learn how to connect a project in Oxygen Content Fusion to Netlify that will allow
+                you to publish Oxygen's deliverables through Netlify.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Download this repository from Github: <xref
+                        href="https://github.com/VT-Evia/partystarter" format="html"
+                        scope="external">https://github.com/VT-Evia/partystarter</xref></cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click green "code" button</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Download and extract zip file</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Generate and Copy Site ID from Netlify</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Open Netlify and scroll down to the drag and drop box</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Drag and drop the extracted Github repository into the box</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select file name</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "site configuration"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To the right of the site ID, click the "copy" button</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Create Connector</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Open Oxygen and exit the personal workspace by clicking the project
+                            name</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the "connectors"tab</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "new connector"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "Netlify" from the drop down menu</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In the pop up, enter a title and paste the Site ID copied from
+                            Netlify</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Generate and Apply Access Token</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Return to Netlify and go to user settings</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "applications" tab</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "new access token"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter a description and set an expiration date</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "generate token" then copy the token</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Return to Oxygen and paste token in the connector pop up then click
+                            "submit" </cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
