@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vz4_fmz_kdc">
+    <title>Connect Oxygen to Netlify</title>
+    <shortdesc>This task will show you how to connect a project in Oxygen to Netlify.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_opt_yyr_kdc">You must have created a publication in Oxygen.</prereq>
+        <context>
+            <p>Learn how to connect a project in Oxygen to Netlify that will allow you to publish
+                Oxygen's deliverables through Netlify.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Create Connector</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Open project in Oxygen and exit personal workspace by clicking the
+                            project name</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the "connectors" tab</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "new connector"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select "Netlify" from the drop down menu</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>In the pop up, enter a title and paste the site ID copied from
+                            Netlify</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Generate and Apply Access Token</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Open Netlify and go to user settings</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the "applications" tab</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "new access token"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter a description and set expiration date</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click "generate token" then copy the token</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Return to Oxygen and paste token in the connector pop up then click
+                            "submit"</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
