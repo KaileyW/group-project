@@ -22,6 +22,11 @@
                     </substep>
                     <substep>
                         <cmd>Click "new connector"</cmd>
+                        <info>
+                            <fig id="fig_xw4_szz_kdc">
+                                <image href="images/oxygenconnectortab.png" id="image_ivb_tzz_kdc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select "Netlify" from the drop down menu</cmd>
@@ -31,12 +36,19 @@
                             Netlify</cmd>
                     </substep>
                 </substeps>
+                <info><image href="images/oxygenconnectorpopup.png" id="image_pmf_vzz_kdc"/></info>
             </step>
             <step>
                 <cmd>Generate and Apply Access Token</cmd>
                 <substeps>
                     <substep>
                         <cmd>Open Netlify and go to user settings</cmd>
+                        <info>
+                            <fig id="fig_tpy_yzz_kdc">
+                                <image href="images/netlifyusersettings.png" id="image_vkh_zzz_kdc"
+                                />
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select the "applications" tab</cmd>
@@ -49,6 +61,11 @@
                     </substep>
                     <substep>
                         <cmd>Click "generate token" then copy the token</cmd>
+                        <info>
+                            <fig id="fig_wtj_111_ldc">
+                                <image href="images/netlifyaccesstoken.png" id="image_stx_b11_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Return to Oxygen and paste token in the connector pop up then click

@@ -20,6 +20,11 @@
                     </substep>
                     <substep>
                         <cmd>Download and extract zip file</cmd>
+                        <info>
+                            <fig id="fig_jzf_xyz_kdc">
+                                <image href="images/gitrepo.png" id="image_j15_xyz_kdc"/>
+                            </fig>
+                        </info>
                     </substep>
                 </substeps>
             </step>
@@ -42,6 +47,11 @@
                         <cmd>To the right of the site ID, click the "copy" button</cmd>
                     </substep>
                 </substeps>
+                <info>
+                    <fig id="fig_in5_zyz_kdc">
+                        <image href="images/netlifyupload.png" id="image_ukx_1zz_kdc"/>
+                    </fig>
+                </info>
             </step>
         </steps>
     </taskbody>
