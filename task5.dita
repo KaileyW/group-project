@@ -36,6 +36,11 @@
                     </substep>
                     <substep>
                         <cmd>Drag and drop the extracted Github repository into the box</cmd>
+                        <info>
+                            <fig id="fig_rtg_gb1_ldc">
+                                <image href="images/netlifyupload.png" id="image_m3n_hb1_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Select file name</cmd>
@@ -47,11 +52,6 @@
                         <cmd>To the right of the site ID, click the "copy" button</cmd>
                     </substep>
                 </substeps>
-                <info>
-                    <fig id="fig_in5_zyz_kdc">
-                        <image href="images/netlifyupload.png" id="image_ukx_1zz_kdc"/>
-                    </fig>
-                </info>
             </step>
         </steps>
     </taskbody>
