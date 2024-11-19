@@ -47,6 +47,11 @@
                     <substep>
                         <cmd>Choose whether you want your repository to be public (visible to
                             everyone) or private (visible only to you and collaborators)</cmd>
+                        <info>
+                            <fig id="fig_dwt_dqz_kdc">
+                                <image href="sc2c.jpg" id="image_ef2_kqz_kdc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Initialize the Repository: If you want GitHub to create the main branch
@@ -56,6 +61,11 @@
                                 <li>Add a .gitignore file to specify files Git should ignore</li>
                                 <li>Select a license if applicable</li>
                             </ul>
+                        </info>
+                        <info>
+                            <fig id="fig_hpv_drz_kdc">
+                                <image href="sc2d.jpg" id="image_p3k_2rz_kdc"/>
+                            </fig>
                         </info>
                     </substep>
                 </substeps>
