@@ -21,7 +21,7 @@
                             corner</cmd>
                         <info>
                             <fig id="1b">
-                                <image href="sc1b.jpg" id="image_hhj_2pz_kdc"/>
+                                <image href="images/sc1b.jpg" id="image_hhj_2pz_kdc"/>
                             </fig>
                         </info>
                     </substep>
@@ -29,7 +29,7 @@
                         <cmd>Select “New repository” from the drop-down menu</cmd>
                         <info>
                             <fig id="fig_jm2_jpz_kdc">
-                                <image href="sc1c.jpg" id="image_xfv_ppz_kdc"/>
+                                <image href="images/sc1c.jpg" id="image_xfv_ppz_kdc"/>
                             </fig>
                         </info>
                     </substep>
@@ -47,7 +47,7 @@
                     <substep>
                         <cmd>Choose whether you want your repository to be public (visible to
                             everyone) or private (visible only to you and collaborators)</cmd>
-                        <info>
+                    <info>
                             <fig id="fig_dwt_dqz_kdc">
                                 <image href="sc2c.jpg" id="image_ef2_kqz_kdc"/>
                             </fig>
@@ -62,7 +62,7 @@
                                 <li>Select a license if applicable</li>
                             </ul>
                         </info>
-                        <info>
+                    <info>
                             <fig id="fig_hpv_drz_kdc">
                                 <image href="sc2d.jpg" id="image_p3k_2rz_kdc"/>
                             </fig>
