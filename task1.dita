@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_b54_3qq_jdc">
     <title>Create a GitHub Repository</title>
-    <shortdesc>First, you'll want to create a repository in GitHub.</shortdesc>
+    <shortdesc>This task will show you how to create a repository in GitHub.</shortdesc>
     <taskbody>
         <context>
             <p>Learn how to create a GitHub repository. This is the first step that ties everything
