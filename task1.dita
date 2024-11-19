@@ -15,9 +15,12 @@
                 <substeps id="substeps_yjj_1km_kdc">
                     <substep>
                         <cmd>Go to your GitHub Repositories</cmd>
+                        <info>
+                            <fig id="fig_imh_ymz_kdc"/>
+                        </info>
                     </substep>
                     <substep>
-                        <cmd>On the main page, click on the + icon in the upper right-hand
+                        <cmd>On the home page, click on the + icon in the upper right-hand
                             corner</cmd>
                     </substep>
                     <substep>

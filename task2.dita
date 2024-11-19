@@ -5,6 +5,7 @@
     <shortdesc>This task will show you how to create a personal access token for your repository in
         GitHub. </shortdesc>
     <taskbody>
+        <prereq id="prereq_wlg_lnz_kdc">You must have created a repository in GitHub.</prereq>
         <context>
             <p>Here you will learn how to create a personal access token in GitHub which is another
                 essential part of the process.</p>
@@ -35,6 +36,25 @@
                     </substep>
                     <substep>
                         <cmd>Click “Generate token”</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Ensure GITHUB_TOKEN has permission to push to the gh-pages branch</cmd>
+                <substeps id="substeps_qz5_ynz_kdc">
+                    <substep>
+                        <cmd>Go to your repository</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Under Settings > Actions > General</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Under Workflow permissions</cmd>
+                        <info>
+                            <ul id="ul_dnc_k4z_kdc">
+                                <li>Select Read and Write permissions</li>
+                            </ul>
+                        </info>
                     </substep>
                 </substeps>
             </step>
