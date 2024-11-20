@@ -41,6 +41,11 @@
                     </substep>
                     <substep>
                         <cmd>Click “Generate new token”</cmd>
+                        <info>
+                            <fig id="fig_vhs_5nh_ldc">
+                                <image href="2sc3b.jpg" id="image_kr4_znh_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Add a note for what this token is for</cmd>
@@ -51,6 +56,9 @@
                     </substep>
                     <substep>
                         <cmd>Click “Generate token”</cmd>
+                        <info>
+                            <fig id="fig_ugb_g4h_ldc"/>
+                        </info>
                     </substep>
                 </substeps>
             </step>
