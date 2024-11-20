@@ -76,10 +76,20 @@
                     <substep>
                         <cmd>Once you've configured everything, click the green button “Create
                             repository” at the bottom of the page</cmd>
+                        <info>
+                            <fig id="fig_wfb_kfh_ldc">
+                                <image href="sc3a.jpg" id="image_p5r_ggh_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>After creating the repository, you’ll be directed to the repository
                             page</cmd>
+                        <info>
+                            <fig id="fig_zwk_3gh_ldc">
+                                <image href="sc3b.jpg" id="image_zgy_4gh_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>You now have a GitHub repository created from scratch that you can
