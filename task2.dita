@@ -13,6 +13,9 @@
         <steps>
             <step>
                 <cmd>Click on your profile picture in the top right corner</cmd>
+                <info>
+                    <fig id="fig_pj5_sgh_ldc"/>
+                </info>
             </step>
             <step>
                 <cmd>Click “Settings” in the drop down menu</cmd>
