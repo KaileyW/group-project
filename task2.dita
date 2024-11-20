@@ -55,10 +55,15 @@
                             fine)</cmd>
                     </substep>
                     <substep>
-                        <cmd>Click “Generate token”</cmd>
+                        <cmd>Select scopes for your personal access token if desired</cmd>
                         <info>
-                            <fig id="fig_ugb_g4h_ldc"/>
+                            <fig id="fig_ix1_1sh_ldc">
+                                <image href="2sc3e.jpg" id="image_ubp_1sh_ldc"/>
+                            </fig>
                         </info>
+                    </substep>
+                    <substep>
+                        <cmd>Scroll to the bottom of the page and click “Generate token”</cmd>
                     </substep>
                 </substeps>
             </step>
