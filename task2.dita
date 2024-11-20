@@ -75,6 +75,14 @@
                     </substep>
                     <substep>
                         <cmd>Under Settings > Actions > General</cmd>
+                        <info>
+                            <fig id="fig_l15_nsh_ldc">
+                                <image href="2sc4b.jpg" id="image_t32_ssh_ldc"/>
+                            </fig>
+                            <fig id="fig_gpb_tsh_ldc">
+                                <image href="2sc4b2.jpg" id="image_igq_1th_ldc"/>
+                            </fig>
+                        </info>
                     </substep>
                     <substep>
                         <cmd>Under Workflow permissions</cmd>
@@ -82,6 +90,11 @@
                             <ul id="ul_dnc_k4z_kdc">
                                 <li>Select Read and Write permissions</li>
                             </ul>
+                            <fig id="fig_add_gth_ldc">
+                                <image href="2sc4c.jpg" id="image_t5x_jth_ldc"/>
+                            </fig>
+                            <p>You now have a personal access token for your repository in
+                                GitHub!</p>
                         </info>
                     </substep>
                 </substeps>
