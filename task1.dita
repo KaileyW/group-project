@@ -90,10 +90,10 @@
                                 <image href="sc3b.jpg" id="image_zgy_4gh_ldc"/>
                             </fig>
                         </info>
-                    </substep>
-                    <substep>
-                        <cmd>You now have a GitHub repository created from scratch that you can
-                            start adding files to and managing with GitHub commands!</cmd>
+                        <info>
+                            <p>You now have a GitHub repository created from scratch that you can
+                                start adding files to and managing with GitHub commands!</p>
+                        </info>
                     </substep>
                 </substeps>
             </step>
