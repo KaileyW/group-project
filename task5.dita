@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rx5_2yr_kdc">
-    <title>Connect Github to Netlify</title>
+    <title>Connect GitHub to Netlify</title>
     <shortdesc>This task will show you how to connect a Github repository to Netlify.</shortdesc>
     <taskbody>
         <context>

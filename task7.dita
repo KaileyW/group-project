@@ -3,7 +3,7 @@
 <task id="task_yny_dmz_kdc">
     <title>Create a Deliverable in Oxygen Content Fusion</title>
     <shortdesc>This task will show you how to turn your content into a deliverable using GitHub,
-        Netlify, and Oxygen Content Fusion</shortdesc>
+        Netlify, and Oxygen Content Fusion.</shortdesc>
     <taskbody>
         <context>
             <p>Once you’ve connected GitHub and Oxygen Content Fusion to Netlify, you’re ready to

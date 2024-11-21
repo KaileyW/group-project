@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_vz4_fmz_kdc">
-    <title>Connect Oxygen to Netlify</title>
-    <shortdesc>This task will show you how to connect a project in Oxygen to Netlify.</shortdesc>
+    <title>Connect Oxygen Content Fusion to Netlify</title>
+    <shortdesc>This task will show you how to connect a project in Oxygen Content Fusion to
+        Netlify.</shortdesc>
     <taskbody>
-        <prereq id="prereq_opt_yyr_kdc">You must have created a publication in Oxygen.</prereq>
+        <prereq id="prereq_opt_yyr_kdc">You must have created a publication in Oxygen Content
+            Fusion.</prereq>
         <context>
-            <p>Learn how to connect a project in Oxygen to Netlify that will allow you to publish
-                Oxygen's deliverables through Netlify.</p>
+            <p>Learn how to connect a project in Oxygen Content Fusion to Netlify that will allow
+                you to publish Oxygen's deliverables through Netlify.</p>
         </context>
         <steps>
             <step>
