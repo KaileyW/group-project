@@ -94,7 +94,11 @@
                             repository” at the bottom of the page</cmd>
                         <info>
                             <fig id="fig_wfb_kfh_ldc">
-                                <image href="images/sc3a.jpg" id="image_p5r_ggh_ldc"/>
+                                <title>This is where you will click to create your
+                                    repository</title>
+                                <image href="images/sc3a.jpg" id="image_p5r_ggh_ldc"
+                                    alt="Screen capture showing where to click to create your new repository. It is a green button located at the bottom of the page on the right side. "
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -103,7 +107,10 @@
                             page</cmd>
                         <info>
                             <fig id="fig_zwk_3gh_ldc">
-                                <image href="images/sc3b.jpg" id="image_zgy_4gh_ldc"/>
+                                <title>Screen capture of your new repository's home page</title>
+                                <image href="images/sc3b.jpg" id="image_zgy_4gh_ldc"
+                                    alt="Screen capture showing the home page of your newly created GitHub repository, with many different tools and buttons in sight. "
+                                />
                             </fig>
                         </info>
                         <info>
