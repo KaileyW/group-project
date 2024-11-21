@@ -20,6 +20,8 @@
                 <cmd>Select the "Projects" tab</cmd>
                 <info>
                     <fig id="fig_jx4_cc4_kdc">
+                        <title>Screen capture of homepage with an arrow pointing to the "Projects"
+                            tab</title>
                         <image href="images/projecttab.png" id="image_sh5_jc4_kdc"
                             alt="picture of screen that appears when you long into Oxygen Content Fusion with an arrow pointing to the tab labeled &quot;projects&quot;"
                         />
@@ -30,6 +32,8 @@
                 <cmd>Click "New Project"</cmd>
                 <info>
                     <fig id="fig_anp_lc4_kdc">
+                        <title>Screen capture of Projects tab with an arrow pointing to "New
+                            Project"</title>
                         <image href="images/newproject.png" id="image_nz1_mc4_kdc"
                             alt="picture of the projects tab with an arrow pointing to &quot;new project&quot;"
                         />
@@ -69,6 +73,8 @@
                 <cmd>Click "Create project"</cmd>
                 <info>
                     <fig id="fig_kbm_qc4_kdc">
+                        <title>Screen capture of the new project popup with dots next to fillable
+                            fields and an arrow pointing to "Create project"</title>
                         <image href="images/createproject.png" id="image_ur5_qc4_kdc"
                             alt="picture of pop-up that appears when creating a new project and an arrow pointing to &quot;create project&quot;"
                         />
