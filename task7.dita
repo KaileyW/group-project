@@ -29,10 +29,12 @@
                             alt="select Deliverables tab" width="600"/>
                     </fig>
                     <fig id="fig_cbb_1yn_ldc">
-                        <image href="images/new%20deliverable.png" id="image_nby_1yn_ldc"/>
+                        <image href="images/new%20deliverable.png" id="image_nby_1yn_ldc"
+                            width="600" alt="Select &quot;new deliverable&quot;"/>
                     </fig>
                     <fig id="fig_gzf_byn_ldc">
-                        <image href="images/deliverables%20pop%20up.png" id="image_ug3_cyn_ldc"/>
+                        <image href="images/deliverables%20pop%20up.png" id="image_ug3_cyn_ldc"
+                            width="600" alt="Deliverable pop up"/>
                     </fig>
                 </info>
                 <substeps id="substeps_rqs_mmz_kdc">
