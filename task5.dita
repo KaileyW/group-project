@@ -4,7 +4,6 @@
     <title>Connect Github to Netlify</title>
     <shortdesc>This task will show you how to connect a Github repository to Netlify.</shortdesc>
     <taskbody>
-        <prereq id="prereq_opt_yyr_kdc">You must have created a publication in Oxygen.</prereq>
         <context>
             <p>Learn how to connect a repository in Github to Netlify that will allow you to publish
                 deliverables through Netlify.</p>
