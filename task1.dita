@@ -57,7 +57,9 @@
                             everyone) or private (visible only to you and collaborators)</cmd>
                     <info>
                             <fig id="fig_dwt_dqz_kdc">
-                                <image href="images/sc2c.jpg" id="image_usn_3fd_ldc"/>
+                                <image href="images/sc2c.jpg" id="image_usn_3fd_ldc"
+                                    alt="Screen capture on GitHub page where you create a new repository. There are red arrows pointing to type in the name of the repository, as well as one pointing to an optional description, and lastly, one pointing to a public or private button. "
+                                />
                             </fig>
                         </info>
                     </substep>
