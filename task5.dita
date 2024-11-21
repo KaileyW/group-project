@@ -2,15 +2,15 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rx5_2yr_kdc">
     <title>Connect GitHub to Netlify</title>
-    <shortdesc>This task will show you how to connect a Github repository to Netlify.</shortdesc>
+    <shortdesc>This task will show you how to connect a GitHub repository to Netlify.</shortdesc>
     <taskbody>
         <context>
-            <p>Learn how to connect a repository in Github to Netlify that will allow you to publish
+            <p>Learn how to connect a repository in GitHub to Netlify that will allow you to publish
                 deliverables through Netlify.</p>
         </context>
         <steps>
             <step>
-                <cmd>Download this repository from Github: <xref
+                <cmd>Download this repository from GitHub: <xref
                         href="https://github.com/VT-Evia/partystarter" format="html"
                         scope="external">https://github.com/VT-Evia/partystarter</xref></cmd>
                 <substeps>
@@ -21,7 +21,10 @@
                         <cmd>Download and extract zip file</cmd>
                         <info>
                             <fig id="fig_jzf_xyz_kdc">
-                                <image href="images/gitrepo.png" id="image_j15_xyz_kdc"/>
+                                <title>Screen capture of where to download GitHub repository</title>
+                                <image href="images/gitrepo.png" id="image_j15_xyz_kdc"
+                                    alt="Screen capture with an arrow showing where to download a GitHub repository."
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -34,10 +37,14 @@
                         <cmd>Open Netlify and scroll down to the drag and drop box</cmd>
                     </substep>
                     <substep>
-                        <cmd>Drag and drop the extracted Github repository into the box</cmd>
+                        <cmd>Drag and drop the extracted GitHub repository into the box</cmd>
                         <info>
                             <fig id="fig_rtg_gb1_ldc">
-                                <image href="images/netlifyupload.png" id="image_m3n_hb1_ldc"/>
+                                <title>Screen capture of where to upload GitHub repository in
+                                    Netlify</title>
+                                <image href="images/netlifyupload.png" id="image_m3n_hb1_ldc"
+                                    alt="Screen capture with an arrow showing where to place a GitHub repository in Netlify."
+                                />
                             </fig>
                         </info>
                     </substep>

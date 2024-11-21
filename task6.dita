@@ -26,7 +26,10 @@
                         <cmd>Click "new connector"</cmd>
                         <info>
                             <fig id="fig_xw4_szz_kdc">
-                                <image href="images/oxygenconnectortab.png" id="image_ivb_tzz_kdc"/>
+                                <title>Screen capture of connector tab in Oxygen</title>
+                                <image href="images/oxygenconnectortab.png" id="image_ivb_tzz_kdc"
+                                    alt="Screen capture showing connector tab and new connector button in Oxygen."
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -38,7 +41,13 @@
                             Netlify</cmd>
                     </substep>
                 </substeps>
-                <info><image href="images/oxygenconnectorpopup.png" id="image_pmf_vzz_kdc"/></info>
+                <info>
+                    <fig id="fig_jfx_l24_ldc">
+                        <title>Screen capture of new Netlify connector pop up in Oxygen</title>
+                        <image href="images/oxygenconnectorpopup.png" id="image_pmf_vzz_kdc"
+                            alt="Screen capture showing new Netlify connector pop up in Oxygen."/>
+                    </fig>
+                </info>
             </step>
             <step>
                 <cmd>Generate and Apply Access Token</cmd>
@@ -47,7 +56,9 @@
                         <cmd>Open Netlify and go to user settings</cmd>
                         <info>
                             <fig id="fig_tpy_yzz_kdc">
+                                <title>Screen capture of user setting in Netlify</title>
                                 <image href="images/netlifyusersettings.png" id="image_vkh_zzz_kdc"
+                                    alt="Screen capture with an arrow showing user settings in Netlify."
                                 />
                             </fig>
                         </info>
@@ -65,7 +76,11 @@
                         <cmd>Click "generate token" then copy the token</cmd>
                         <info>
                             <fig id="fig_wtj_111_ldc">
-                                <image href="images/netlifyaccesstoken.png" id="image_stx_b11_ldc"/>
+                                <title>Screen capture of new personal access token page in
+                                    Netlify</title>
+                                <image href="images/netlifyaccesstoken.png" id="image_stx_b11_ldc"
+                                    alt="Screen capture showing new personal access token page in Netlify."
+                                />
                             </fig>
                         </info>
                     </substep>
