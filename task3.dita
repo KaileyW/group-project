@@ -40,8 +40,10 @@
                 <cmd>Enter a name</cmd>
             </step>
             <step>
-                <note id="note_efn_rsq_jdc" type="tip">Optional but recommended</note>
                 <cmd>Enter a description</cmd>
+                <info>
+                    <note id="note_ij4_3tn_ldc" type="tip">Optional but recommended</note>
+                </info>
             </step>
             <step>
                 <cmd>Enter your GitHub repository URL</cmd>
