@@ -21,7 +21,7 @@
                             corner</cmd>
                         <info>
                             <fig id="1b">
-                                <image href="sc1b.jpg" id="image_thg_jsz_kdc"/>
+                                <image href="images/sc1b.jpg" id="image_thg_jsz_kdc"/>
                             </fig>
                         </info>
                     </substep>
@@ -29,7 +29,7 @@
                         <cmd>Select “New repository” from the drop-down menu</cmd>
                         <info>
                             <fig id="fig_jm2_jpz_kdc">
-                                <image href="sc1c_1.jpg" id="image_hvj_rzz_kdc"/>
+                                <image href="images/sc1c_1.jpg" id="image_hvj_rzz_kdc"/>
                             </fig>
                         </info>
                     </substep>
@@ -49,7 +49,7 @@
                             everyone) or private (visible only to you and collaborators)</cmd>
                     <info>
                             <fig id="fig_dwt_dqz_kdc">
-                                <image href="sc2c.jpg" id="image_usn_3fd_ldc"/>
+                                <image href="images/sc2c.jpg" id="image_usn_3fd_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -64,7 +64,7 @@
                         </info>
                     <info>
                             <fig id="fig_hpv_drz_kdc">
-                                <image href="sc2d.jpg" id="image_p5v_vth_ldc"/>
+                                <image href="images/sc2d.jpg" id="image_p5v_vth_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -78,7 +78,7 @@
                             repository” at the bottom of the page</cmd>
                         <info>
                             <fig id="fig_wfb_kfh_ldc">
-                                <image href="sc3a.jpg" id="image_p5r_ggh_ldc"/>
+                                <image href="images/sc3a.jpg" id="image_p5r_ggh_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -87,7 +87,7 @@
                             page</cmd>
                         <info>
                             <fig id="fig_zwk_3gh_ldc">
-                                <image href="sc3b.jpg" id="image_zgy_4gh_ldc"/>
+                                <image href="images/sc3b.jpg" id="image_zgy_4gh_ldc"/>
                             </fig>
                         </info>
                         <info>

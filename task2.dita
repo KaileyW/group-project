@@ -15,7 +15,7 @@
                 <cmd>Click on your profile picture in the top right corner</cmd>
                 <info>
                     <fig id="fig_pj5_sgh_ldc">
-                        <image href="2sc1.jpg" id="image_s3f_ykh_ldc"/>
+                        <image href="images/2sc1.jpg" id="image_s3f_ykh_ldc"/>
                     </fig>
                 </info>
             </step>
@@ -26,7 +26,7 @@
                 <cmd>Click “Developer Settings” in the left menu</cmd>
                 <info>
                     <fig id="fig_zrn_jlh_ldc">
-                        <image href="2sc3.jpg" id="image_syd_klh_ldc"/>
+                        <image href="images/2sc3.jpg" id="image_syd_klh_ldc"/>
                     </fig>
                 </info>
                 <substeps id="substeps_y3h_d4m_kdc">
@@ -35,7 +35,7 @@
                             “Fine-grained tokens” or “Tokens (classic)”</cmd>
                         <info>
                             <fig id="fig_nyh_rlh_ldc">
-                                <image href="2sc3a.jpg" id="image_ikk_fnh_ldc"/>
+                                <image href="images/2sc3a.jpg" id="image_ikk_fnh_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -43,7 +43,7 @@
                         <cmd>Click “Generate new token”</cmd>
                         <info>
                             <fig id="fig_vhs_5nh_ldc">
-                                <image href="2sc3b.jpg" id="image_kr4_znh_ldc"/>
+                                <image href="images/2sc3b.jpg" id="image_kr4_znh_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -58,7 +58,7 @@
                         <cmd>Select scopes for your personal access token if desired</cmd>
                         <info>
                             <fig id="fig_ix1_1sh_ldc">
-                                <image href="2sc3e.jpg" id="image_ubp_1sh_ldc"/>
+                                <image href="images/2sc3e.jpg" id="image_ubp_1sh_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -77,10 +77,10 @@
                         <cmd>Under Settings > Actions > General</cmd>
                         <info>
                             <fig id="fig_l15_nsh_ldc">
-                                <image href="2sc4b.jpg" id="image_t32_ssh_ldc"/>
+                                <image href="images/2sc4b.jpg" id="image_t32_ssh_ldc"/>
                             </fig>
                             <fig id="fig_gpb_tsh_ldc">
-                                <image href="2sc4b2.jpg" id="image_igq_1th_ldc"/>
+                                <image href="images/2sc4b2.jpg" id="image_igq_1th_ldc"/>
                             </fig>
                         </info>
                     </substep>
@@ -91,7 +91,7 @@
                                 <li>Select Read and Write permissions</li>
                             </ul>
                             <fig id="fig_add_gth_ldc">
-                                <image href="2sc4c.jpg" id="image_t5x_jth_ldc"/>
+                                <image href="images/2sc4c.jpg" id="image_t5x_jth_ldc"/>
                             </fig>
                             <p>You now have a personal access token for your repository in
                                 GitHub!</p>
