@@ -5,10 +5,9 @@
     <shortdesc>This task will show you how to turn your content into a deliverable using GitHub,
         Netlify, and Oxygen Content Fusion.</shortdesc>
     <taskbody>
-        <context>
-            <p>Once you’ve connected GitHub and Oxygen Content Fusion to Netlify, you’re ready to
-                create a deliverable.</p>
-        </context>
+        <prereq id="prereq_m1z_ff4_ldc">You must have connected your project from Oxygen Content
+            Fusion to Netlify.</prereq>
+        <context>Here you will learn how to create a deliverable in Oxygen Content Fusion.</context>
         <steps>
             <step>
                 <cmd> In Oxygen Content Fusion, click the project name at the top left of the screen
