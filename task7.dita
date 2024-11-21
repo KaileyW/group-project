@@ -27,11 +27,12 @@
                     <fig id="fig_ej3_34z_kdc">
                         <image href="images/deliverables%20tab.png" id="image_r4r_l4z_kdc"
                             alt="select Deliverables tab" width="600"/>
-                        <image href="images/new%20deliverable.png" id="image_mcd_j4z_kdc"
-                            alt="select the blue button that reads &quot;new deliverable&quot;"
-                            width="600"/>
-                        <image href="images/deliverables%20pop%20up.png" id="image_qqs_m4z_kdc"
-                            alt="Fill out the new deliverable pop up" width="600"/>
+                    </fig>
+                    <fig id="fig_cbb_1yn_ldc">
+                        <image href="images/new%20deliverable.png" id="image_nby_1yn_ldc"/>
+                    </fig>
+                    <fig id="fig_gzf_byn_ldc">
+                        <image href="images/deliverables%20pop%20up.png" id="image_ug3_cyn_ldc"/>
                     </fig>
                 </info>
                 <substeps id="substeps_rqs_mmz_kdc">
