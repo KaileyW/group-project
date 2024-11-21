@@ -111,6 +111,8 @@
                                     width="600"
                                     alt="Screen capture showing how to change the site name"/>
                             </fig>
+                            <note id="note_mzt_kg4_ldc" type="tip">This step is optional, but
+                                recommended.</note>
                         </info>
                     </substep>
                 </substeps>
