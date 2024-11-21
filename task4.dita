@@ -34,19 +34,21 @@
                         />
                     </fig>
                 </info>
-            </step>
-            <step>
-                <cmd>Enter a name</cmd>
-            </step>
-            <step>
-                <cmd>Select your ditamap from the file list</cmd>
-            </step>
-            <step>
-                <cmd>Select ditaval</cmd>
-                <info>
-                    <note id="note_eml_nh4_kdc" type="notice">Applicable only if you are filtering
-                        content</note>
-                </info>
+                <substeps id="substeps_jb4_m5n_ldc">
+                    <substep>
+                        <cmd>Enter a name</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select your ditamap from the file list</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select ditaval</cmd>
+                        <info>
+                            <note id="note_oqg_45n_ldc" type="notice">Applicable only if you are
+                                filtering content</note>
+                        </info>
+                    </substep>
+                </substeps>
             </step>
             <step>
                 <cmd>Click "create"</cmd>
