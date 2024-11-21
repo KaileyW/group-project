@@ -35,33 +35,33 @@
                         />
                     </fig>
                 </info>
-            </step>
-            <step>
-                <cmd>Enter a name</cmd>
-            </step>
-            <step>
-                <cmd>Enter a description</cmd>
-                <info>
-                    <note id="note_ij4_3tn_ldc" type="tip">Optional but recommended</note>
-                </info>
-            </step>
-            <step>
-                <cmd>Enter your GitHub repository URL</cmd>
-            </step>
-            <step>
-                <cmd>Enter "Main" for Branch</cmd>
-            </step>
-            <step>
-                <cmd>Leave Visibility as "Public"</cmd>
-            </step>
-            <step>
-                <cmd>Under "Username and Access Token"</cmd>
-                <substeps id="substeps_dnd_3sq_jdc">
+                <substeps id="substeps_vsv_4tn_ldc">
                     <substep>
-                        <cmd>Enter GitHub username</cmd>
+                        <cmd>Enter a name</cmd>
                     </substep>
                     <substep>
-                        <cmd>Enter GitHub Access Token</cmd>
+                        <cmd>Enter a description</cmd>
+                        <info>
+                            <note id="note_o4x_ttn_ldc" type="tip">Optional but recommended</note>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Enter your GitHub repository URL</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter "Main" for Branch</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Leave Visibility as "Public"</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Under "Username and Access Token"</cmd>
+                        <info>
+                            <ol>
+                                <li>Enter GitHub username</li>
+                                <li>Enter GitHub Access Token</li>
+                            </ol>
+                        </info>
                     </substep>
                 </substeps>
             </step>
