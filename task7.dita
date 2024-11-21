@@ -16,7 +16,7 @@
                 <info>
                     <fig id="fig_vly_nnz_kdc">
                         <image href="images/exit%20workspace.png" id="image_np1_pnz_kdc"
-                            alt="exit oxygen workspace" width="600"/>
+                            alt="exit oxygen workspace" width="400"/>
                     </fig>
                 </info>
             </step>
@@ -26,15 +26,15 @@
                 <info>
                     <fig id="fig_ej3_34z_kdc">
                         <image href="images/deliverables%20tab.png" id="image_r4r_l4z_kdc"
-                            alt="select Deliverables tab" width="600"/>
+                            alt="select Deliverables tab" width="400"/>
                     </fig>
                     <fig id="fig_cbb_1yn_ldc">
                         <image href="images/new%20deliverable.png" id="image_nby_1yn_ldc"
-                            width="600" alt="Select &quot;new deliverable&quot;"/>
+                            width="400" alt="Select &quot;new deliverable&quot;"/>
                     </fig>
                     <fig id="fig_gzf_byn_ldc">
                         <image href="images/deliverables%20pop%20up.png" id="image_ug3_cyn_ldc"
-                            width="600" alt="Deliverable pop up"/>
+                            width="400" alt="Deliverable pop up"/>
                     </fig>
                 </info>
                 <substeps id="substeps_rqs_mmz_kdc">
@@ -66,7 +66,7 @@
                 <info>
                     <fig id="fig_ekt_n4z_kdc">
                         <image href="images/build.png" id="image_jc3_44z_kdc"
-                            alt="Click build on the deliverable you made" width="600"/>
+                            alt="Click build on the deliverable you made" width="400"/>
                     </fig>
                 </info>
                 <substeps id="substeps_unq_vmz_kdc">
@@ -75,7 +75,7 @@
                         <info>
                             <fig id="fig_hqc_cpz_kdc">
                                 <image href="images/select%20your%20site.png" id="image_sds_cpz_kdc"
-                                    width="600" alt="In Netlify, select your project"/>
+                                    width="400" alt="In Netlify, select your project"/>
                             </fig>
                         </info>
                     </substep>
@@ -85,7 +85,7 @@
                         <info>
                             <fig id="fig_hj2_dpz_kdc">
                                 <image href="images/follow%20link.png" id="image_mkr_dpz_kdc"
-                                    alt="Follow the link to your deliverable" width="600"/>
+                                    alt="Follow the link to your deliverable" width="400"/>
                             </fig>
                         </info>
                     </substep>
@@ -96,9 +96,9 @@
                         <info>
                             <fig id="fig_xjb_gpz_kdc">
                                 <image href="images/site%20configuration.png" id="image_prc_lpz_kdc"
-                                    alt="select &quot;site configuration&quot;" width="600"/>
+                                    alt="select &quot;site configuration&quot;" width="400"/>
                                 <image href="images/change%20site%20name.png" id="image_rcr_lpz_kdc"
-                                    alt="Select &quot;change site name&quot;" width="600"/>
+                                    alt="Select &quot;change site name&quot;" width="400"/>
                             </fig>
                         </info>
                     </substep>
