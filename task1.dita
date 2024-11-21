@@ -57,6 +57,8 @@
                             everyone) or private (visible only to you and collaborators)</cmd>
                     <info>
                             <fig id="fig_dwt_dqz_kdc">
+                                <title>Screen capture of page that allows you to create a new GitHub
+                                    repository</title>
                                 <image href="images/sc2c.jpg" id="image_usn_3fd_ldc"
                                     alt="Screen capture on GitHub page where you create a new repository. There are red arrows pointing to type in the name of the repository, as well as one pointing to an optional description, and lastly, one pointing to a public or private button. "
                                 />
@@ -74,7 +76,11 @@
                         </info>
                     <info>
                             <fig id="fig_hpv_drz_kdc">
-                                <image href="images/sc2d.jpg" id="image_p5v_vth_ldc"/>
+                                <title>Screen capture of additional settings you can add when
+                                    creating a new </title>
+                                <image href="images/sc2d.jpg" id="image_p5v_vth_ldc"
+                                    alt="Screen capture of bottom of page where you would create a new repository, giving you the option to add a readme file, add a .gitignore, and a license."
+                                />
                             </fig>
                         </info>
                     </substep>
