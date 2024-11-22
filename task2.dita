@@ -16,7 +16,9 @@
                 <info>
                     <fig id="fig_pj5_sgh_ldc">
                         <title>Screen capture of where to find your GitHub profile</title>
-                        <image href="images/2sc1.jpg" id="image_s3f_ykh_ldc"/>
+                        <image href="images/2sc1.jpg" id="image_s3f_ykh_ldc"
+                            alt="Screen capture of the home page for the GitHub repository, with a red circle circling the profile photo in the top right corner. "
+                        />
                     </fig>
                 </info>
             </step>
@@ -27,7 +29,10 @@
                 <cmd>Click “Developer Settings” in the left menu</cmd>
                 <info>
                     <fig id="fig_zrn_jlh_ldc">
-                        <image href="images/2sc3.jpg" id="image_syd_klh_ldc"/>
+                        <title>Screen capture of where to find your developer settings</title>
+                        <image href="images/2sc3.jpg" id="image_syd_klh_ldc"
+                            alt="Screen capture of where to find your developer settings in GitHub, with a red circle around the developer settings button located on the left-hand side of the page. "
+                        />
                     </fig>
                 </info>
                 <substeps id="substeps_y3h_d4m_kdc">
@@ -36,7 +41,11 @@
                             “Fine-grained tokens” or “Tokens (classic)”</cmd>
                         <info>
                             <fig id="fig_nyh_rlh_ldc">
-                                <image href="images/2sc3a.jpg" id="image_ikk_fnh_ldc"/>
+                                <title>Screen capture of where to find your personal access token in
+                                    developer settings</title>
+                                <image href="images/2sc3a.jpg" id="image_ikk_fnh_ldc"
+                                    alt="Screen capture of where to find your personal access token in developer settings. Located on left side of page and circled in red. "
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -44,7 +53,11 @@
                         <cmd>Click “Generate new token”</cmd>
                         <info>
                             <fig id="fig_vhs_5nh_ldc">
-                                <image href="images/2sc3b.jpg" id="image_kr4_znh_ldc"/>
+                                <title>Screen capture showing where to generate your personal access
+                                    token</title>
+                                <image href="images/2sc3b.jpg" id="image_kr4_znh_ldc"
+                                    alt="Screen capture showing where to generate your personal access token, doing so by circling in red &quot;Generate new token&quot; button in center of page. "
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -59,7 +72,11 @@
                         <cmd>Select scopes for your personal access token if desired</cmd>
                         <info>
                             <fig id="fig_ix1_1sh_ldc">
-                                <image href="images/2sc3e.jpg" id="image_ubp_1sh_ldc"/>
+                                <title>Screen capture showing what to fill out when creating a new
+                                    personal access token</title>
+                                <image href="images/2sc3e.jpg" id="image_ubp_1sh_ldc"
+                                    alt="Screen capture showing what to fill out when creating a new personal access token, including adding a note, setting an expiration date for it, and selecting any scopes if necessary. "
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -78,10 +95,18 @@
                         <cmd>Under Settings > Actions > General</cmd>
                         <info>
                             <fig id="fig_l15_nsh_ldc">
-                                <image href="images/2sc4b.jpg" id="image_t32_ssh_ldc"/>
+                                <title>Screen capture showing where to find your repository
+                                    settings</title>
+                                <image href="images/2sc4b.jpg" id="image_t32_ssh_ldc"
+                                    alt="Screen capture showing where to find your repository settings, which are located on the menu bar in the middle top of the page. "
+                                />
                             </fig>
                             <fig id="fig_gpb_tsh_ldc">
-                                <image href="images/2sc4b2.jpg" id="image_igq_1th_ldc"/>
+                                <title>Screen capture showing where to find the "general" settings
+                                    under "actions"</title>
+                                <image href="images/2sc4b2.jpg" id="image_igq_1th_ldc"
+                                    alt="Screen capture showing where to find the &quot;general&quot; settings under &quot;actions&quot;, which is located on the left-hand side on the menu bar in settings. "
+                                />
                             </fig>
                         </info>
                     </substep>
@@ -92,7 +117,11 @@
                                 <li>Select Read and Write permissions</li>
                             </ul>
                             <fig id="fig_add_gth_ldc">
-                                <image href="images/2sc4c.jpg" id="image_t5x_jth_ldc"/>
+                                <title>Screen capture showing where to find the read and write
+                                    permissions under workflow permissions</title>
+                                <image href="images/2sc4c.jpg" id="image_t5x_jth_ldc"
+                                    alt="Screen capture showing where to find the read and write permissions under workflow permissions. It is the first option under workflow permissions and is circled in red. "
+                                />
                             </fig>
                             <p>You now have a personal access token for your repository in
                                 GitHub!</p>
